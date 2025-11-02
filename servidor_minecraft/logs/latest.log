@@ -1,0 +1,76 @@
+[00:47:50] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[00:47:51] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21
+[00:47:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/GEYS/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:48:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:48:03] [main/INFO]: Loaded 1290 recipes
+[00:48:04] [main/INFO]: Loaded 1399 advancements
+[00:48:05] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:48:05] [Server thread/INFO]: Loading properties
+[00:48:05] [Server thread/INFO]: Default game type: SURVIVAL
+[00:48:05] [Server thread/INFO]: Generating keypair
+[00:48:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:48:05] [Server thread/INFO]: Using epoll channel type
+[00:48:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:48:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:48:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:48:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:48:05] [Server thread/INFO]: Preparing level "world"
+[00:48:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:48:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:48:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:48:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:48:15] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:48:15] [Server thread/INFO]: Time elapsed: 1580 ms
+[00:48:15] [Server thread/INFO]: Done (10.139s)! For help, type "help"
+[00:48:24] [Server thread/INFO]: Mateoo__95[/100.85.150.119:62318] logged in with entity id 6 at (-185.41625898421148, 60.0828881255787, 151.5369701303883)
+[00:48:24] [Server thread/INFO]: Mateoo__95 joined the game
+[00:48:34] [Server thread/INFO]: ceboforever[/100.101.49.9:58720] logged in with entity id 240 at (-179.30000001192093, 88.0, 144.42664523749653)
+[00:48:34] [Server thread/INFO]: ceboforever joined the game
+[00:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[00:49:12] [Server thread/INFO]: Mateoo__95 has made the advancement [Sweet Dreams]
+[00:49:16] [Server thread/INFO]: ceboforever lost connection: Disconnected
+[00:49:16] [Server thread/INFO]: ceboforever left the game
+[00:49:23] [Server thread/INFO]: ceboforever[/100.101.49.9:55110] logged in with entity id 343 at (-183.70036641689765, 88.0, 141.6087032463459)
+[00:49:23] [Server thread/INFO]: ceboforever joined the game
+[00:49:29] [Server thread/INFO]: ceboforever has made the advancement [Acquire Hardware]
+[00:52:13] [Server thread/INFO]: Mateoo__95 has made the advancement [Monster Hunter]
+[00:55:30] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
+[00:55:30] [Server thread/INFO]: Mateoo__95 left the game
+[00:56:26] [Server thread/INFO]: ceboforever has made the advancement [Suit Up]
+[00:56:57] [Server thread/INFO]: Mateoo__95[/100.85.150.119:62430] logged in with entity id 1459 at (-221.55075922880687, 15.0, 180.4018790018515)
+[00:56:57] [Server thread/INFO]: Mateoo__95 joined the game
+[01:00:22] [Server thread/INFO]: Mateoo__95 has made the advancement [Acquire Hardware]
+[01:00:47] [Server thread/INFO]: ceboforever has made the advancement [Not Today, Thank You]
+[01:02:13] [Server thread/INFO]: Mateoo__95 has made the advancement [Suit Up]
+[01:07:39] [Server thread/INFO]: ceboforever has made the advancement [Diamonds!]
+[01:07:48] [Server thread/INFO]: Mateoo__95 has made the advancement [Not Today, Thank You]
+[01:09:13] [Server thread/INFO]: ceboforever was shot by Skeleton
+[01:11:47] [Server thread/INFO]: Mateoo__95 has made the advancement [Diamonds!]
+[01:13:59] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
+[01:13:59] [Server thread/INFO]: Mateoo__95 left the game
+[01:15:45] [Server thread/INFO]: ceboforever was slain by Zombie
+[01:15:49] [Server thread/INFO]: Mateoo__95[/100.85.150.119:58232] logged in with entity id 6372 at (-289.2070642052568, 24.0, 164.6093010042681)
+[01:15:49] [Server thread/INFO]: Mateoo__95 joined the game
+[01:15:55] [Server thread/INFO]: Mateoo__95 lost connection: Disconnected
+[01:15:55] [Server thread/INFO]: Mateoo__95 left the game
+[01:24:04] [Server thread/INFO]: ceboforever lost connection: Disconnected
+[01:24:04] [Server thread/INFO]: ceboforever left the game
+[01:24:09] [Server thread/INFO]: ceboforever[/100.101.49.9:50161] logged in with entity id 8343 at (-276.26815685429926, 107.0, 95.89442745326363)
+[01:24:09] [Server thread/INFO]: ceboforever joined the game
+[01:24:15] [Server thread/INFO]: ceboforever lost connection: Disconnected
+[01:24:15] [Server thread/INFO]: ceboforever left the game
+[01:24:59] [Server thread/INFO]: Stopping the server
+[01:24:59] [Server thread/INFO]: Stopping server
+[01:24:59] [Server thread/INFO]: Saving players
+[01:24:59] [Server thread/INFO]: Saving worlds
+[01:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
