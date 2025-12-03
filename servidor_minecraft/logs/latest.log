@@ -1,0 +1,90 @@
+[22:38:26] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.2
+[22:38:26] [main/INFO]: Loading 14 mods:
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+	- skinrestorer 2.4.3+1.21.9-fabric
+	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
+	- voicechat 1.21.10-2.6.6
+	   |-- fabric-api-base 1.0.0+14b92d8968
+	   |-- fabric-command-api-v2 2.3.7+328a75ba68
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c4868
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e68
+	   |-- fabric-networking-api-v1 5.0.13+d269470c68
+	   |-- fabric-rendering-v1 16.0.1+328a75ba68
+	   |-- fabric-resource-loader-v0 3.2.2+3388a3b268
+	   |-- fabric-resource-loader-v1 1.0.2+225bca4068
+	   \-- voicechat_api 2.6.0
+[22:38:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/GEYS/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:38:27] [main/INFO]: Compatibility level set to JAVA_21
+[22:38:28] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[22:38:37] [main/WARN]: fabric-api is not loaded, SkinShuffle compatibility will not be available
+[22:38:37] [main/INFO]: [voicechat] Compatibility version 20
+[22:38:37] [main/INFO]: [voicechat] Loading plugins
+[22:38:37] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:38:37] [main/INFO]: [voicechat] Initializing plugins
+[22:38:37] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:38:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:38:41] [main/INFO]: Loaded 1461 recipes
+[22:38:41] [main/INFO]: Loaded 1574 advancements
+[22:38:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[22:38:41] [Server thread/INFO]: Loading properties
+[22:38:41] [Server thread/INFO]: Default game type: SURVIVAL
+[22:38:41] [Server thread/INFO]: Generating keypair
+[22:38:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:38:41] [Server thread/INFO]: Using epoll channel type
+[22:38:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:38:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:38:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:38:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:38:41] [Server thread/INFO]: Preparing level "world"
+[22:38:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:38:42] [Server thread/INFO]: Preparing spawn area: 100%
+[22:38:42] [Server thread/INFO]: Time elapsed: 16 ms
+[22:38:42] [Server thread/INFO]: Done (0.561s)! For help, type "help"
+[22:38:42] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:38:42] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.78.66.17:24454
+[22:39:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:40:18] [Server thread/INFO]: ceboforever[/100.101.49.9:65471] logged in with entity id 90 at (20.03901421105768, 69.0, 119.64490916019885)
+[22:40:18] [Server thread/INFO]: ceboforever joined the game
+[22:40:19] [Server thread/INFO]: [voicechat] Received secret request of ceboforever (20)
+[22:40:19] [Server thread/INFO]: [voicechat] Sent secret to ceboforever
+[22:40:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e33ef407-c66a-3c6a-b9b9-f2a957b08a00
+[22:40:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e33ef407-c66a-3c6a-b9b9-f2a957b08a00
+[22:40:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ceboforever (e33ef407-c66a-3c6a-b9b9-f2a957b08a00) successfully connected to voice chat
+[22:41:58] [Server thread/INFO]: Exrko_[/100.108.142.58:58076] logged in with entity id 756 at (6.614878772043548, 70.0, 74.69999998807907)
+[22:41:58] [Server thread/INFO]: Exrko_ joined the game
+[22:42:00] [Server thread/INFO]: [voicechat] Received secret request of Exrko_ (20)
+[22:42:00] [Server thread/INFO]: [voicechat] Sent secret to Exrko_
+[22:42:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player aa2f7d48-e09e-3940-8bd2-28b5c54844b5
+[22:42:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player aa2f7d48-e09e-3940-8bd2-28b5c54844b5
+[22:42:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Exrko_ (aa2f7d48-e09e-3940-8bd2-28b5c54844b5) successfully connected to voice chat
+[22:43:04] [Server thread/INFO]: ceboforever was blown up by Creeper
+[22:43:30] [Server thread/INFO]: [Not Secure] <ceboforever> me escuchas?
+[22:43:47] [Server thread/INFO]: [Not Secure] <ceboforever> oprime la V
+[22:43:57] [Server thread/INFO]: [Not Secure] <Exrko_> me escuchas
+[22:44:04] [Server thread/INFO]: Exrko_ has made the advancement [Monster Hunter]
+[22:44:50] [Server thread/INFO]: [Not Secure] <ceboforever> unete al grupo
+[22:45:20] [Server thread/INFO]: [Not Secure] <ceboforever> me escuchas?
+[22:45:38] [Server thread/INFO]: [Not Secure] <ceboforever> escribe en el chat
+[22:45:42] [Server thread/INFO]: [Not Secure] <Exrko_> me escuchas?
+[22:46:05] [Server thread/INFO]: [Not Secure] <Exrko_> me escuchas
+[22:46:27] [Server thread/INFO]: [Not Secure] <Exrko_> si
+[22:46:51] [Server thread/INFO]: Exrko_ lost connection: Disconnected
+[22:46:51] [Server thread/INFO]: Exrko_ left the game
+[22:46:51] [Server thread/INFO]: [voicechat] Disconnecting client Exrko_
+[22:46:55] [Server thread/INFO]: Exrko_[/100.108.142.58:58640] logged in with entity id 1540 at (13.298436394970189, 63.0, 85.69999998807907)
+[22:46:55] [Server thread/INFO]: Exrko_ joined the game
+[22:46:55] [Server thread/INFO]: [voicechat] Received secret request of Exrko_ (20)
+[22:46:55] [Server thread/INFO]: [voicechat] Sent secret to Exrko_
+[22:46:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player aa2f7d48-e09e-3940-8bd2-28b5c54844b5
+[22:46:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player aa2f7d48-e09e-3940-8bd2-28b5c54844b5
+[22:46:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Exrko_ (aa2f7d48-e09e-3940-8bd2-28b5c54844b5) successfully connected to voice chat
+[22:47:06] [Server thread/INFO]: [Not Secure] <Exrko_> ya
+[22:47:38] [Server thread/INFO]: [Not Secure] <Exrko_> me escuchas?
+[22:49:41] [Server thread/INFO]: [ceboforever: Skin changed]
+[22:50:04] [Server thread/INFO]: [ceboforever: Skin changed]
+[22:52:20] [Server thread/INFO]: Exrko_ was slain by ceboforever
+[22:56:38] [Server thread/INFO]: ceboforever was slain by Exrko_
+[22:57:55] [Server thread/INFO]: [Not Secure] <Exrko_> no se escuchaa
